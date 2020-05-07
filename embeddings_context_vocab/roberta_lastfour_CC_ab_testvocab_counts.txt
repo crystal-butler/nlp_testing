@@ -1,0 +1,6 @@
+car, 2000
+fluent, 275
+donut, 238
+triangular, 153
+jumping, 1394
+forever, 2000
