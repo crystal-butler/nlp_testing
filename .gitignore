@@ -1,1 +1,3 @@
 **/venv
+embeddings_context_vocab/*
+.ipynb*
